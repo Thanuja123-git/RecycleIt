@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/mainback"
+    tools:context=".RegisterDate">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:textSize="40dp"
+        android:fontFamily="@font/atma_medium"
+        android:layout_gravity="center"
+        android:textColor="#1E88E5"/>
+
+    <ImageView
+        android:layout_width="381dp"
+        android:layout_height="203dp"
+        android:src="@drawable/truck"
+        android:layout_gravity="center"/>
+
+    <!--Edittext for getting course Name-->
+    <EditText
+        android:id="@+id/edtcompanyname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:hint="Company Name"
+        android:importantForAutofill="no"
+        android:inputType="text" />
+
+    <!--Edittext for getting course Duration-->
+    <EditText
+        android:id="@+id/edtdateofcoll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:hint="Date of collection in DD.MM.YYYY"
+        android:importantForAutofill="no"
+        android:focusable="false"
+        android:inputType="time" />
+
+    <!--Edittext for getting course Description-->
+    <EditText
+        android:id="@+id/edtcode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:hint="Postal Code"
+        android:importantForAutofill="no"
+        android:inputType="text" />
+
+    <!--Button for adding your course to Firebase-->
+    <Button
+        android:id="@+id/idBtnSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:text="Submit Details"
+        android:textAllCaps="false"
+        android:backgroundTint="#1E88E5"/>
+
+</LinearLayout>

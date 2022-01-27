@@ -1,0 +1,103 @@
+com/example/recycleit/Location.java
+ com.example.recycleit.Location
+ com.example.recycleit.Location$1
+com/example/recycleit/Locationfrag.java
+ com.example.recycleit.Locationfrag
+com/example/recycleit/databinding/ActivityPhoneAuthBinding.java
+ com.example.recycleit.databinding.ActivityPhoneAuthBinding
+com/example/recycleit/databinding/ActivityRegisterDateBinding.java
+ com.example.recycleit.databinding.ActivityRegisterDateBinding
+com/example/recycleit/Main_page.java
+ com.example.recycleit.Main_page
+com/example/recycleit/PlaceOrder.java
+ com.example.recycleit.PlaceOrder
+ com.example.recycleit.PlaceOrder$1
+ com.example.recycleit.PlaceOrder$2
+ com.example.recycleit.PlaceOrder$3
+ com.example.recycleit.PlaceOrder$4
+ com.example.recycleit.PlaceOrder$4$1
+com/example/recycleit/Previousorders.java
+ com.example.recycleit.Previousorders
+ com.example.recycleit.Previousorders$1
+com/example/recycleit/databinding/ActivitySuccessfulOrderBinding.java
+ com.example.recycleit.databinding.ActivitySuccessfulOrderBinding
+com/example/recycleit/databinding/ActivityPreviousrdersBinding.java
+ com.example.recycleit.databinding.ActivityPreviousrdersBinding
+com/example/recycleit/databinding/ContentCustomerPageBinding.java
+ com.example.recycleit.databinding.ContentCustomerPageBinding
+com/example/recycleit/databinding/ActivityDisplayOrdersBinding.java
+ com.example.recycleit.databinding.ActivityDisplayOrdersBinding
+com/example/recycleit/databinding/ActivityLocationfragBinding.java
+ com.example.recycleit.databinding.ActivityLocationfragBinding
+com/example/recycleit/Phone_Auth.java
+ com.example.recycleit.Phone_Auth
+ com.example.recycleit.Phone_Auth$1
+ com.example.recycleit.Phone_Auth$2
+com/example/recycleit/databinding/FragmentSecondBinding.java
+ com.example.recycleit.databinding.FragmentSecondBinding
+com/example/recycleit/CompanyPage.java
+ com.example.recycleit.CompanyPage
+ com.example.recycleit.CompanyPage$1
+ com.example.recycleit.CompanyPage$2
+com/example/recycleit/BuildConfig.java
+ com.example.recycleit.BuildConfig
+com/example/recycleit/databinding/ActivityLocationBinding.java
+ com.example.recycleit.databinding.ActivityLocationBinding
+com/example/recycleit/CourseRVAdapter.java
+ com.example.recycleit.CourseRVAdapter
+ com.example.recycleit.CourseRVAdapter$ViewHolder
+com/example/recycleit/DataBindingTriggerClass.java
+ com.example.recycleit.DataBindingTriggerClass
+com/example/recycleit/DisplayOrders.java
+ com.example.recycleit.DisplayOrders
+ com.example.recycleit.DisplayOrders$1
+com/example/recycleit/SuccessfulOrder.java
+ com.example.recycleit.SuccessfulOrder
+com/example/recycleit/databinding/ActivityCustomerPageBinding.java
+ com.example.recycleit.databinding.ActivityCustomerPageBinding
+com/example/recycleit/Login_page.java
+ com.example.recycleit.Login_page
+ com.example.recycleit.Login_page$1
+ com.example.recycleit.Login_page$2
+com/example/recycleit/databinding/RowBinding.java
+ com.example.recycleit.databinding.RowBinding
+com/example/recycleit/MainActivity.java
+ com.example.recycleit.MainActivity
+ com.example.recycleit.MainActivity$1
+com/example/recycleit/databinding/ActivityMainPageBinding.java
+ com.example.recycleit.databinding.ActivityMainPageBinding
+com/example/recycleit/databinding/ActivityDateofCollBinding.java
+ com.example.recycleit.databinding.ActivityDateofCollBinding
+com/example/recycleit/databinding/ActivityPlaceOrderBinding.java
+ com.example.recycleit.databinding.ActivityPlaceOrderBinding
+com/example/recycleit/databinding/ActivityMainBinding.java
+ com.example.recycleit.databinding.ActivityMainBinding
+com/example/recycleit/MyModel.java
+ com.example.recycleit.MyModel
+com/example/recycleit/databinding/ActivityCompanyPageBinding.java
+ com.example.recycleit.databinding.ActivityCompanyPageBinding
+com/example/recycleit/MyAdapter.java
+ com.example.recycleit.MyAdapter
+ com.example.recycleit.MyAdapter$1
+ com.example.recycleit.MyAdapter$HoldView
+com/example/recycleit/databinding/CourseItemBinding.java
+ com.example.recycleit.databinding.CourseItemBinding
+com/example/recycleit/databinding/FragmentFirstBinding.java
+ com.example.recycleit.databinding.FragmentFirstBinding
+com/example/recycleit/databinding/ActivityLoginPageBinding.java
+ com.example.recycleit.databinding.ActivityLoginPageBinding
+com/example/recycleit/RegisterDate.java
+ com.example.recycleit.RegisterDate
+ com.example.recycleit.RegisterDate$1
+ com.example.recycleit.RegisterDate$2
+ com.example.recycleit.RegisterDate$3
+ com.example.recycleit.RegisterDate$4
+ com.example.recycleit.RegisterDate$5
+com/example/recycleit/Courses.java
+ com.example.recycleit.Courses
+com/example/recycleit/DateofColl.java
+ com.example.recycleit.DateofColl
+ com.example.recycleit.DateofColl$1
+ com.example.recycleit.DateofColl$2
+com/example/recycleit/Customer_page.java
+ com.example.recycleit.Customer_page

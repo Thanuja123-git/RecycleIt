@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/plainback"
+    tools:context=".SuccessfulOrder">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/atma_medium"
+        android:gravity="center"
+        android:text="Successful"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="90dp"
+        android:textSize="50dp" />
+
+
+    <ImageView
+        android:layout_width="210dp"
+        android:layout_height="204dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/ic_baseline_check_circle_24" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your order has been\n placed successfully"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:background="#FFFFFF"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Return"
+        android:backgroundTint="#039BE5"
+        android:layout_gravity="center"
+        android:onClick="back"/>
+</LinearLayout>

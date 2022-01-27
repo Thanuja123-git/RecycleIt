@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_customer_page2.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_customer_page2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_previousrders.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_previousrders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\course_item.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\course_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_display_orders.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_display_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_done.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register_date.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_register_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_page.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_customer_page.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_customer_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_phone_auth.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_phone_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_place_order.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_place_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_location.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dateof_coll.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_dateof_coll.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_customer_page.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\content_customer_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_company_page.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_company_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_page.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_successful_order.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_successful_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_locationfrag.xml",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_locationfrag.xml"
+    }
+]

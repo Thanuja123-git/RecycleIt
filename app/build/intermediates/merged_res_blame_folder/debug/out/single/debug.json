@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottle.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\bottle.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_design.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_content_customer_page.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\content_customer_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_successful_order.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_successful_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_phone_auth.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_phone_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\menu_mymenu.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\menu\\mymenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login_page.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\raw_ting.mp3.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\raw\\ting.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\font_amarante.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\font\\amarante.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_check_circle_24.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_local_phone_24.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\ic_baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_admin.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\admin.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dateof_coll.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_dateof_coll.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\font_bubbler_one.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\font\\bubbler_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottlecust.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\bottlecust.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_callback.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\callback.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_plainback.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\plainback.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_customer_page.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_customer_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_loc.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\loc.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_imgs.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\imgs.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_page.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_custback.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\custback.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_locationfrag.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_locationfrag.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_row.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_course_item.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\course_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_wifi_protected_setup_24.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\ic_baseline_wifi_protected_setup_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_otp.jpg.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\otp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_img.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_previousrders.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_previousrders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_upload.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\upload.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_truck.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\truck.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_place_order.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_place_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\font_atma_medium.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\font\\atma_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_placeback.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\placeback.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_mainpage.jpg.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\mainpage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_logout.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\ic_baseline_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_location.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_call_24.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\ic_baseline_call_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_mainback.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\mainback.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_location_24.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\ic_baseline_edit_location_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_call.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register_date.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_register_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\drawable_adminpage.jpg.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\drawable\\adminpage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_display_orders.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_display_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_company_page.xml.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\layout\\activity_company_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hemanth\\AndroidStudioProjects\\Recycle_It_Project\\RecycleIt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    }
+]

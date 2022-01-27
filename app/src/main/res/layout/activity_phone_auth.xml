@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Phone_Auth">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bubbler_one"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="OTP Verification"
+        android:textColor="#1E88E5"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="233dp"
+        android:layout_height="212dp"
+        android:layout_gravity="center"
+        android:src="@drawable/otp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Phone Number"
+        android:id="@+id/phone"
+        android:layout_marginTop="5dp"
+        android:inputType="phone"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="#1E88E5"
+        android:layout_gravity="center"
+        android:onClick="send"
+        android:text="Send Otp"
+        android:textColor="#F8F5F5" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Otp Here"
+        android:id="@+id/otp"
+        android:layout_marginTop="15dp"
+        android:inputType="phone"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verify"
+        android:textColor="#1E88E5"
+        android:backgroundTint="#F8F7F5"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:onClick="verify"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="resend"
+        android:textColor="#F8F5F5"
+        android:layout_gravity="center"
+        android:backgroundTint="#1E88E5"
+        android:layout_marginTop="15dp"
+        android:onClick="resend"/>
+
+
+</LinearLayout>

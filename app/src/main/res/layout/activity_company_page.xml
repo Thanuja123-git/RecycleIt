@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CompanyPage"
+    android:background="@drawable/mainback">
+
+    <!--Edittext for getting course Name-->
+
+    <!--Button for adding your course to Firebase-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Company Page"
+        android:textSize="40dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/atma_medium"
+        android:textColor="#1E88E5"/>
+
+    <ImageView
+        android:layout_width="373dp"
+        android:layout_height="267dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/bottle" />
+    <Button
+        android:id="@+id/idBtnViewCourses"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:text="Display Orders"
+        android:textAllCaps="false"
+        android:backgroundTint="#1E88E5"/>
+
+    <Button
+        android:id="@+id/idBtnSubmitCourse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register Date of Collection"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:textAllCaps="false"
+        android:backgroundTint="#1E88E5"/>
+
+
+
+</LinearLayout>
